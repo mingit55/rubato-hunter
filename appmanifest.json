@@ -1,0 +1,41 @@
+{
+	"name": "루바토 헌터",
+	"short_name": "루바토 헌터",
+	"description": "하이퍼 캐주얼 리듬 게임 \"루바토 헌터\"!\n\n루바토 헌터는 하이퍼 캐주얼 리듬 게임입니다.\nRPG와 리듬게임을 결합하여 새로운 재미를 느낄 수 있도록 구성하였습니다.\n옛날 픽셀 게임의 용사와 함께 음악 세상으로 모험을 떠나보세요!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
